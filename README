@@ -5,10 +5,12 @@ Rust is the main XMPP language for Community Chest. It is used on the machine cl
 * Ledger
 * Vault
 * HQ
+* CITO
 
 Dart is the default XMPP language for Community Chest user (human) clients:
-* ComChest (App)
+* ComChest
 
 Python is the XMPP library for analysis
 * Risk
-*
+* ComChestML
+* Reporting

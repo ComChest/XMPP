@@ -1,0 +1,14 @@
+# XMPP-ComChest
+XMPP Libraries for Community Chest in Rust, Dart and Python.
+
+Rust is the main XMPP language for Community Chest. It is used on the machine clients:
+* Ledger
+* Vault
+* HQ
+
+Dart is the default XMPP language for Community Chest user (human) clients:
+* ComChest (App)
+
+Python is the XMPP library for analysis
+* Risk
+*
